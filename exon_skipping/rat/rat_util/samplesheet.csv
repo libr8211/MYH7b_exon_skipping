@@ -1,0 +1,6 @@
+﻿SampleID,SampleType,Condition,BioReplicate,FilePath
+SRR9606550,rat_LV,hypoxia,1,
+SRR9606552,rat_LV,hypoxia,2,
+SRR9606554,rat_LV,hypoxia,3,
+SRR9606556,rat_LV,normoxia,4,
+SRR9606558,rat_LV,normoxia,5,
